@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/OhMyVenix/math-game?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/OhMyVenix/math-game?style=social)
 
-This is a tools for check ip address using python.
+This is a simple math game using c++.
 
 ## Using :
 
